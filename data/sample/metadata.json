@@ -1,0 +1,10 @@
+{
+  "generator": "glycotwin.data.generate",
+  "generator_version": "0.1.0",
+  "patient_count": 40,
+  "seed": 20261012,
+  "prediction_at": "2026-10-01",
+  "wearable_days": 14,
+  "target_horizon_days": 90,
+  "synthetic_only": true
+}
