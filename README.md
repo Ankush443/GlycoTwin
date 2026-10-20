@@ -121,7 +121,7 @@ real device ingestion, and any real booking/clinic integration.
 
 | Deliverable | Link |
 | --- | --- |
-| **Demo/explanation video (≥ 20 minutes)** | _[VIDEO-LINK-TODO: record in Task 3 and replace this line — unlisted YouTube link or PPT-recording link]_ |
+| **Demo/explanation video (≥ 20 minutes)** | Demo YouTube link: _[add link here]_ |
 | **Architecture diagram (PDF)** | [docs/Architecture_Diagram.pdf](docs/Architecture_Diagram.pdf) |
 | **Presentation (PDF)** | [docs/Presentation.pdf](docs/Presentation.pdf) |
 | **Open-source licence** | [MIT License](LICENSE) |
